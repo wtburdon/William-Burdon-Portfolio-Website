@@ -65,3 +65,21 @@ body{
     margin:0;
     padding:0;
 }
+
+
+.main-landing button{
+    background-color: #3882F6;
+    border-radius:10px;
+    text-justify: auto;
+    border-color:#3882F6;
+    border-style:solid;
+}
+
+.main-landing-button-text{
+    color:#F9FAF8;
+    font-size:18px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:20px;
+    margin-right:20px;
+}
