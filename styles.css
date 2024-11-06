@@ -1,0 +1,22 @@
+.navbar{
+    background-color:calc(#1F2937);
+    display:flex;
+}
+
+.navbar div{
+    flex:4;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+
