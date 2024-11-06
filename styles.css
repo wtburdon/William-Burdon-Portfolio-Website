@@ -11,12 +11,22 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
-  
-  .roboto-light-italic {
+}
+
+.roboto-light-italic {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: italic;
-  }
+}
+
+.navbar p{
+    font-size:18px;
+    color:calc(#F9FAF8);
+}
+
+.navbar h1{
+    font-size:18px;
+    color:calc(#E5E7EB);
+}
   
 
