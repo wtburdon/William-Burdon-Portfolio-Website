@@ -1,10 +1,12 @@
 .navbar{
-    background-color:calc(#1F2937);
+    background-color:#1F2937;
     display:flex;
 }
 
 .navbar div{
-    flex:4;
+    flex:5;
+    background-color:#1F2937;
+    padding-bottom:20px;
 }
 
 .roboto-regular {
@@ -21,12 +23,12 @@
 
 .navbar p{
     font-size:18px;
-    color:calc(#F9FAF8);
+    color:#F9FAF8;
 }
 
 .navbar h1{
     font-size:18px;
-    color:calc(#E5E7EB);
+    color:#E5E7EB;
 }
   
 
