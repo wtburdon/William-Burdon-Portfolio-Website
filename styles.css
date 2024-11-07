@@ -66,6 +66,16 @@ body{
     padding:0;
 }
 
+.main-landing h1{
+    color:#F9FAF8;
+    font-size:48px;
+    font-weight: 900;
+}
+
+.main-landing h2{
+    color:#E5E7EB;
+    font-size:18px;
+}
 
 .main-landing button{
     background-color: #3882F6;
