@@ -70,6 +70,10 @@ body{
     justify-content: space-between;
 }
 
+.main-landing-headerdiv{
+    margin-left:10%;
+}
+
 .main-landing h1{
     color:#F9FAF8;
     font-size:48px;
