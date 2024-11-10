@@ -141,3 +141,14 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
+.projects-individual p{
+    font-size:15px;
+    font-style:italic;
+    color:#1F2937;
+}
+
+.projects-individual img{
+    border-radius:10px;
+    border-color:#3882F6;
+}
