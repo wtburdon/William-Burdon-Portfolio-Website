@@ -180,3 +180,22 @@ body{
     max-width:max-content;
     font-weight:900;
 }
+
+.contact-me{
+    background-color:white;
+}
+
+.contact-me-div{
+    margin-right: auto;
+    margin-left:auto;
+    max-width: fit-content;
+    display:flex;
+    background-color: #3882F6;
+    border-radius: 5px;
+}
+
+.contact-me-div div{
+    flex: 1;
+    margin-top:auto;
+    margin-bottom:auto;
+}
