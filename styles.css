@@ -152,3 +152,31 @@ body{
     border-radius:10px;
     border-color:#3882F6;
 }
+
+.quote{
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color:#E5E7EB;
+}
+
+.quote div{
+    margin-right:auto;
+    margin-left:auto;
+    max-width:fit-content;
+    margin-top:0;
+    margin-bottom:0;
+    max-height: min-content;
+}
+
+.quote-content{
+    font-size: 36px;
+    color:#1F2937;
+    font-style:italic;
+    max-width:500px;
+}
+
+.quote-subtext{
+    padding-left:250px;
+    max-width:max-content;
+    font-weight:900;
+}
