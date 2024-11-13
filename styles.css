@@ -93,6 +93,14 @@ body{
     text-justify: auto;
     border-color:#3882F6;
     border-style:solid;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+}
+
+.main-landing button:hover{
+    border-radius:15px;
+    background-color:#17B169;
+    border-color:#17B169;
 }
 
 .main-landing-button-text{
