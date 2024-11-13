@@ -199,3 +199,25 @@ body{
     margin-top:auto;
     margin-bottom:auto;
 }
+
+.contact-me-h1{
+    color:white;
+    font-size: 25px;
+}
+
+.contact-me-h2{
+    color:white;
+    font-size:20px;
+}
+
+.contact-me-button{
+    background-color:#3882F6;
+    border-color:white;
+    border-style:solid;
+    border-radius:5px;
+}
+
+.contact-me-button p{
+    color:white;
+    font-weight: 900;
+}
