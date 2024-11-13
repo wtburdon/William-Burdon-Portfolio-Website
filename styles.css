@@ -195,21 +195,31 @@ body{
 
 .contact-me{
     background-color:white;
+    display:flex;
 }
 
 .contact-me-div{
-    margin-right: auto;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-right:auto;
     margin-left:auto;
-    max-width: fit-content;
+    max-width: max-content;
+    padding-left:200px;
+    padding-right:200px;
     display:flex;
     background-color: #3882F6;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .contact-me-div div{
     flex: 1;
     margin-top:auto;
     margin-bottom:auto;
+    max-width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left:20px;
+    padding-right:20px;
 }
 
 .contact-me-h1{
@@ -226,10 +236,36 @@ body{
     background-color:#3882F6;
     border-color:white;
     border-style:solid;
-    border-radius:5px;
+    border-radius:10px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+}
+
+.contact-me-button:hover{
+    border-radius:15px;
+    background-color:#17B169;
+    border-color:#17B169;
 }
 
 .contact-me-button p{
     color:white;
     font-weight: 900;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
+
+.footer div{
+    max-width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-h1{
+    color:#F9FAF8;
+    font-size: 15px;
 }
